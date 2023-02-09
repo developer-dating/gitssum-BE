@@ -3,13 +3,6 @@
 
 ![1](https://user-images.githubusercontent.com/110834052/217885730-dd289a50-7207-4a89-bfd5-f9f6bf34047f.png)
 
-![2](https://user-images.githubusercontent.com/110834052/217886141-c7e8c1ed-2cc9-44ab-9d9f-0beff1091acc.png)
-
-![3](https://user-images.githubusercontent.com/110834052/217886152-a73d1f18-0336-45f0-ba72-d9cad4eaafbe.png)
-
-![4](https://user-images.githubusercontent.com/110834052/217886160-b36682c6-a2b1-4a3c-8475-ecb89c7f4a1f.png)
-
-![5](https://user-images.githubusercontent.com/110834052/217886181-7d571d0e-6815-42d0-b25f-853f9cb5f88a.png)
 
 ## 개발자들을 위한 소셜 데이팅 웹
 
